@@ -1,4 +1,4 @@
-# [Ubeseat](ubeseat.streamlit.app) 💺
+# [Ubeseat](https://ubeseat.streamlit.app) 💺
 
 
 
