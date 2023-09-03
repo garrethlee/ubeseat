@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Ubeseat is a Streamlit web application that provides real-time alerts and tracking for course availability at the University of British Columbia (UBC). With Ubeseat, you can select specific courses you're interested in, receive alerts when they become available, and easily manage your course tracking preferences.
+Ubeseat is a Streamlit web application that provides real-time alerts and tracking for course availability at the University of British Columbia (UBC). With Ubeseat, you can select specific courses you're interested in, receive alerts when they become available, and easily manage your course-tracking preferences.
 
 ## Features
 
@@ -34,12 +34,11 @@ Ubeseat is a Streamlit web application that provides real-time alerts and tracki
 
 ## About
 
-This Streamlit app was created by [Your Name] as a personal project to help UBC students track course availability. It is not officially affiliated with the University of British Columbia.
+This Streamlit app was created as a personal project to help UBC students track course availability. It is not officially affiliated with the University of British Columbia.
 
-For more information, visit the [About](#) section within the app.
 
 ---
 
 **Note**: Ubeseat is a tool to enhance your UBC course selection experience but does not guarantee course availability. Make sure to follow official UBC registration procedures and deadlines.
 
-For support or inquiries, please contact [Your Email Address].
+For support or inquiries, please contact me via Github.
