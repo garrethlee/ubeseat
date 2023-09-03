@@ -1,5 +1,7 @@
 # Ubeseat 💺
 
+ubeseat.streamlit.app
+
 **Real-time alerts and tracking for UBC course availability**
 
 ## Introduction
